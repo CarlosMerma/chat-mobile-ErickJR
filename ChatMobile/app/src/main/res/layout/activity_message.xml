@@ -18,7 +18,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="Type message here"
+            android:hint="Type message here1"
             android:layout_alignParentBottom="true"
             android:layout_toLeftOf="@id/btnSend"
             />
